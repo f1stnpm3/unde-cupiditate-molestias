@@ -1,3 +1,6 @@
-The algorithm continuously evaluates and scores open source software projects in supported package managers based on their impact and value to the OSS ecosystem.
+BIP39 Mnemonics for bitcore
+=======
 
-Simple support tea in reguide template can increase for an open source software project with an increasing number of dependents
+THIS REPO HAVE BEEN MOVED TO BITCORE's MONO REPO. Check: 
+
+https://github.com/bitpay/bitcore/tree/master/packages/bitcore-mnemonic
